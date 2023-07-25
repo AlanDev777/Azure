@@ -30,10 +30,4 @@ En este proyecto, vamos a construir un sistema de análisis en tiempo real utili
 
 Con Azure Databricks, el análisis de Big Data en tiempo real se convierte en una realidad emocionante y poderosa. En este proyecto, hemos demostrado cómo procesar flujos de datos en tiempo real, realizar análisis y visualizar los resultados instantáneamente. ¡Esperamos que este proyecto inspire a otros a adentrarse en el emocionante mundo del análisis de Big Data en tiempo real!
 
-¿Qué esperas? ¡Comienza tu viaje hacia el análisis en tiempo real con Azure Databricks hoy mismo!
-
-¡Gracias por leer nuestro proyecto!
-
-[Instrucciones para configurar el entorno y ejecutar el proyecto en el archivo "README.md"]
-
 
